@@ -1,4 +1,5 @@
 # device_driver_robosys2018
+![Alt](https://github.com/Ashi96/device_driver_robosys2018/blob/master/docs/images/displays_number_4.JPG)
 
 ## Overview
 Device driver that displays numbers using LEDs
