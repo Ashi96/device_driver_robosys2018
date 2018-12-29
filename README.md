@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=jmppEoof3j4&t=2s
     - male-male http://akizukidenshi.com/catalog/g/gC-05371/
     - male-female http://akizukidenshi.com/catalog/g/gC-08933/
 
+## Circuit
+![Alt](https://github.com/Ashi96/device_driver_robosys2018/blob/master/docs/images/circuit%20diagram.png)
 
 ## Install
 ~~~
