@@ -5,7 +5,8 @@
 Device driver that displays numbers using 11 LEDs on Raspberry Pi 3 Model B+. 
 
 ## Description
-7-segment LED is a device to display numbers using LEDs. I did the same thing with the device driver.
+7-segment LED is a device to display numbers using LEDs. I did the same thing with the device driver. 
+It can display numbers from 0 to 9.
 
 ## Demo
 https://www.youtube.com/watch?v=jmppEoof3j4&t=2s
@@ -43,6 +44,8 @@ $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0  
 ex) when you want to display "0"  
 $ echo 0 > /dev/myled0
+ex) when you want to put the lights out
+$ echo d > /dev/myled0
 ~~~
 
 ## License
